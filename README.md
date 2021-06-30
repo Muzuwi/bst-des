@@ -1,6 +1,6 @@
 # BST - Implementation of DES
 This repository contains an implementation of the DES encryption in Rust, using bitvec library.
-Project for BST course, 2021
+Project for BST course, 2021, Łukasz K. 
 
 # Building
 - Download and install the [Rust environment](https://forge.rust-lang.org/infra/other-installation-methods.html#standalone-installers) for your platform. 
